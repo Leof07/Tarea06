@@ -31,6 +31,7 @@ function readLine() {
 
 function timeConversion(s) {
     // Write your code here
+    //solucion semana 10 dia miercoles
     let arrTemp=s.split(':');
     let temp=arrTemp[2];
     let tiempo=temp[2]+temp[3];
